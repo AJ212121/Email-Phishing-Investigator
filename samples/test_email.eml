@@ -1,0 +1,21 @@
+From: security-alert@example.com
+To: student@example.com
+Subject: URGENT - Account Verification Required
+Date: Thu, 05 Nov 2026 09:30:00 +0000
+Content-Type: text/plain; charset="utf-8"
+
+Hello Customer,
+
+URGENT! Your account has been suspended.
+
+Please verify your account immediately.
+
+Click here to restore your access:
+
+http://example.com/verify
+
+Failure to act may result in permanent account suspension.
+
+Regards,
+Security Department
+
